@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Иоанн Лавринов](https://up.htmlacademy.ru/htmlcss-individual/3/user/871191).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
