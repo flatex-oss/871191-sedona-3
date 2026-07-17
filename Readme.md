@@ -2,6 +2,7 @@
 
 * Студент: [Иоанн Лавринов](https://up.htmlacademy.ru/htmlcss-individual/3/user/871191).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Github Pages](https://flatex1.github.io/871191-sedona-3/).
 
 ---
 
