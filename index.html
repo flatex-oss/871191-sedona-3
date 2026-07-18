@@ -8,7 +8,7 @@
   </head>
 
   <body>
-    <header class="main-header">
+    <header class="main-header" data-test="header">
       <a class="city-logo-link" href="index.html">
         <img class="city-logo" src="#" alt="Логотип г. Седона">
       </a>
@@ -51,8 +51,8 @@
         </ul>
       </nav>
     </header>
-    <main>
-      <section class="hero">
+    <main data-test="main">
+      <section class="hero" data-test="hero">
         <img class="hero__image" src="#" alt="">
         <div class="hero__about">
           <!-- Вместо скрытого h1 заголовка решил использовать видимый -->
@@ -65,7 +65,7 @@
           </p>
         </div>
       </section>
-      <section class="features">
+      <section class="features" data-test="advantages">
         <h2 class="visually-hidden">Почему стоит поехать в Седону?</h2>
 
         <ul class="features__list">
@@ -142,13 +142,13 @@
           </li>
         </ul>
       </section>
-      <section class="find-hotel">
+      <section class="find-hotel" data-test="search">
         <h2 class="find-hotel__title">Заинтересовались?</h2>
         <p class="find-hotel__subtitle">Укажите предполагаемые даты поездки,
           и мы покажем вам лучшие предложения гостиниц в Седоне</p>
         <a class="find-hotel__button cta-button" href="#">Поиск гостиницы в Седоне</a>
       </section>
-      <section class="subscribe">
+      <section class="subscribe" data-test="subscribe">
         <h2 class="subscribe__title">Подпишитесь на рассылку</h2>
         <p class="subscribe__subtitle">Только полезная информация и никакого спама, честное бойскаутское!</p>
 
@@ -159,7 +159,7 @@
         </form>
       </section>
     </main>
-    <footer class="main-footer">
+    <footer class="main-footer" data-test="footer">
       <ul class="socials">
         <li class="socials__item">
           <a class="socials__link" href="#">
